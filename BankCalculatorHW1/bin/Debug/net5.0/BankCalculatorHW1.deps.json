@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BankCalculatorHW1/1.0.0": {
+        "runtime": {
+          "BankCalculatorHW1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankCalculatorHW1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

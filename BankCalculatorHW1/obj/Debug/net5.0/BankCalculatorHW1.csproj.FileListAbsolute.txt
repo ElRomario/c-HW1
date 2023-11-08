@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\bin\Debug\net5.0\BankCalculatorHW1.exe
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\bin\Debug\net5.0\BankCalculatorHW1.deps.json
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\bin\Debug\net5.0\BankCalculatorHW1.runtimeconfig.json
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\bin\Debug\net5.0\BankCalculatorHW1.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\bin\Debug\net5.0\BankCalculatorHW1.dll
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\bin\Debug\net5.0\ref\BankCalculatorHW1.dll
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\bin\Debug\net5.0\BankCalculatorHW1.pdb
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.dll
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\ref\BankCalculatorHW1.dll
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.pdb
+C:\Users\ElRomario\source\repos\BankCalculatorHW1\BankCalculatorHW1\obj\Debug\net5.0\BankCalculatorHW1.genruntimeconfig.cache
